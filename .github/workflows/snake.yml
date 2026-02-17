@@ -22,4 +22,6 @@ jobs:
 
       - name: Generate Snake Graph
         run: snk --github stteenArts --output output/github-contribution-grid-snake.svg
-
+        
+      - name: Create output folder
+        run: mkdir -p output
