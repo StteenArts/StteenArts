@@ -1,0 +1,25 @@
+name: GitHub Contributions Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecuta diariamente a medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install snk
+        run: npm install -g snk
+
+      - name: Generate Snake Graph
+        run: snk --github StteenArts --output output/github-contribution-grid-snake.svg
+
