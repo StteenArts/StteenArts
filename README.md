@@ -62,6 +62,5 @@
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/stteenArts/stteenArts/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<img src="https://raw.githubusercontent.com/stteenArts/stteenArts/main/output/github-contribution-grid-snake.svg" alt="Snake Contributions Graph"/>
+
