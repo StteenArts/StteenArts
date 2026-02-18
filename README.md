@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=stteenArts&label=Profile%20views&color=0047AB&style=plastic" alt="StteenArts" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=StteenArts&label=Profile%20views&color=0047AB&style=plastic" alt="StteenArts" height=25px, width=160px/> 
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - :star: Semi-senior Developer  
 - :video_game: Gamer & tech enthusiast  
 - :books: Aprendizaje continuo  
-- :link: [GitHub Portfolio](https://github.com/stteenArts)
+- :link: [GitHub Portfolio](https://github.com/StteenArts)
 
 ---
 
@@ -74,7 +74,7 @@
   </a>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stteenArts/stteenArts/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stteenArts/stteenArts/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stteenArts/stteenArts/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph.svg">
 </picture> 
