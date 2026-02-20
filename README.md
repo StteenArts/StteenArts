@@ -54,8 +54,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Repositories.gif?raw=true" width="50px"> </picture> Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/StteenArts/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StteenArts&repo=portflio&theme=tokyonight" alt="portfolio" />
+  <a href="https://stteenarts.github.io/portfolio/">
+    <img src="https://github.com/StteenArts/portfolio" alt="portfolio" />
   </a>
 </p>
 
