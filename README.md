@@ -58,7 +58,7 @@
 
 ---
 
-## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="50px"> </picture> Featured Repositories
+## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="30%"> </picture> Featured Repositories
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
