@@ -29,7 +29,7 @@
 
 - :star: Semi-senior Developer  
 - :video_game: Gamer & tech enthusiast  
-- :books: Aprendizaje continuo  
+- :books: Mente de aprendiz 
 - :link: [GitHub Portfolio](https://github.com/StteenArts)
 
 ---
