@@ -1,7 +1,7 @@
 <h1 align="center">
-	< Stteen A. Rojas S. /> 
+	< Stteen A. Rojas S /> 
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
-	** PHP | JS | Python **
+	<p style="">** PHP | JS | Python **</p>
 	* Building clean & scalable solutions *
 </h1>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" />
+    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="50px" height="25%"/>
   </a>
 </p>
 
