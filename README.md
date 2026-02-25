@@ -58,8 +58,8 @@
 
 ---
 
-## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%"> </picture> 
-<h1 align="center">Featured Repositories</h1>
+## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%"> Featured Repositories </picture> 
+
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
