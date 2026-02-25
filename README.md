@@ -3,7 +3,6 @@
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
 	
   <p align="center">
-	  <span style="color:#777BB4;"><b>PHP</b></span>
     <b style="color:#58a6ff;">PHP</b> • 
     <b style="color:#f7df1e;">JavaScript</b> • 
     <b style="color:#8993be;">Python</b>
