@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="50px" height="25%"/>
+    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="50px" height="40%"/>
   </a>
 </p>
 
