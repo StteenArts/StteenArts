@@ -58,12 +58,12 @@
 
 ---
 
-## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%" margin-right="4%"> Featured Repositories </picture> 
+## <picture> <img src="./img/pixel_art_developer.jpeg" width="15%" margin-right="4%"> Featured Repositories </picture> 
 
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="28%" height="40%"/>
+    <img src="./img/portfolio_introduce.png" alt="portfolio" width="28%" height="40%"/>
   </a>
 </p>
 
