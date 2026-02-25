@@ -1,8 +1,16 @@
 <h1 align="center">
-	< Stteen A. Rojas S /> 
+	&lt; Stteen A. Rojas S /&gt;
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
-	<p style="">** PHP | JS | Python **</p>
-	* Building clean & scalable solutions *
+	
+  <p align="center">
+    <b style="color:#58a6ff;">PHP</b> • 
+    <b style="color:#f7df1e;">JavaScript</b> • 
+    <b style="color:#8993be;">Python</b>
+  </p>
+	<p align="center">
+    <i>Building clean & scalable solutions</i>
+  </p>
+  
 </h1>
 
 
@@ -58,7 +66,7 @@
 
 ---
 
-## <picture> <img src="./img/pixel_art_developer.jpeg" width="15%" margin-right="4%"> Featured Repositories </picture> 
+## <picture> <img src="./img/pixel_art_developer.jpeg" width="10%"> Featured Repositories </picture> 
 
 
 <p align="center">
