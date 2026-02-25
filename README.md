@@ -58,11 +58,11 @@
 
 ---
 
-## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="25%"> </picture> Featured Repositories
+## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="15%"> </picture> Featured Repositories
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="30%" height="40%"/>
+    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" width="28%" height="40%"/>
   </a>
 </p>
 
