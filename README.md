@@ -58,7 +58,7 @@
 
 ---
 
-## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%"> Featured Repositories </picture> 
+## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%" margin-right="4%"> Featured Repositories </picture> 
 
 
 <p align="center">
