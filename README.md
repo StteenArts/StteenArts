@@ -58,7 +58,8 @@
 
 ---
 
-## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="15%"> </picture> Featured Repositories
+## <picture> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/49728277406423.62741b233026c.jpg" width="15%"> </picture> 
+## <p align="center">Featured Repositories</p>
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
