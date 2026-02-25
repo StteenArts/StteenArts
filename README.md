@@ -1,4 +1,11 @@
-<h1 align="center">Hi , I'm Stteen A. Rojas Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+	< Stteen A. Rojas S. /> 
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
+	** PHP | JS | Python **
+	* Building clean & scalable solutions *
+</h1>
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -51,11 +58,11 @@
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Repositories.gif?raw=true" width="50px"> </picture> Featured Repositories
+## <picture> <img src="https://media.easy-peasy.ai/c558c867-167c-4f11-afed-c9f85f2ac43e/2024-09-19T08:45:43.472Z.png" width="50px"> </picture> Featured Repositories
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="https://github.com/StteenArts/portfolio" alt="portfolio" />
+    <img src="https://cdn.polyspeak.ai/speakmaster/poly-sdispatcher/images/b4bff938-ec64-4e9b-a71d-3ab8885fde20.WEBP" alt="portfolio" />
   </a>
 </p>
 
