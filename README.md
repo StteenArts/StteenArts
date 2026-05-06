@@ -1,97 +1,101 @@
 <h1 align="center">
-	&lt; Stteen A. Rojas S /&gt;
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br />
-	<p align="center">
-    <i>Building clean & scalable solutions</i>
-  </p>
-  
+  Stteen A. Rojas S
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner">
-  </a>
+  <strong>Backend Developer | C# / .NET | REST APIs | Software Architecture</strong>
 </p>
 
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=StteenArts&label=Profile%20views&color=0047AB&style=plastic" alt="StteenArts" height=25px, width=160px/> 
+<p align="center">
+  <i>Building clean, scalable, and maintainable applications</i>
 </p>
 
 ---
 
-<h3> <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me</h3>
+## 👨‍💻 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
+</p>
 
-- :star: Im a Semi-senior Developer  
-- :video_game: Gamer & tech lead enthusiast  
-- :books: Mente de aprendiz
+Software Developer focused on backend development with experience in C#, .NET, JavaScript, and PHP.
+
+I apply strong software engineering principles including Object-Oriented Programming (OOP), design patterns, and software architecture to build efficient and maintainable systems.
+
+Experienced working in Agile environments using Scrum, collaborating with teams to deliver scalable solutions.
+
+Currently improving my skills in backend architecture and building high-quality applications.
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Contact me
+## ⚙️ Tech Stack
 
 <p align="center">
-	<a href="mailto:stteenriwi@gmail.com">
-		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-	</a>
-	<a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8">
-		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
-	<a href="https://www.instagram.com/stteen_vip/">
-		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-	</a>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+
+<!-- APIs & Architecture -->
+<img src="https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-FF5733.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/Design%20Patterns-FF6F00.svg?style=for-the-badge">
+
+</p>
+
+<p align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+<!-- Backend JS -->
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
+
+</p>
+
+<p align="center">
+
+<!-- Database & Tools -->
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Scrum-009688.svg?style=for-the-badge">
+
 </p>
 
 ---
 
-## 🛠️ SKILLS
-
-<p align="center">
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=plastic&logo=express&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-</p>
-<p align="center">
-	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%237F2EFF.svg?style=plastic&logo=php&logoColor=white"></a>
-	<a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
-	<a href="#"><img alt="Csharp" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=dotnet&logoColor=white"></a>
-</p>
-
----
-
-## <picture> <img src="./img/pixel_art_developer.jpeg" width="10%"> Featured Repositories </picture> 
-
+## 📌 Featured Project
 
 <p align="center">
   <a href="https://stteenarts.github.io/portfolio/">
-    <img src="./img/portfolio_introduce.png" alt="portfolio" width="28%" height="40%"/>
+    <img src="./img/portfolio_introduce.png" width="60%">
   </a>
 </p>
 
 ---
 
-## 👻 A Pacman Eating my Contributions Graph
-	
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:stteenriwi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 👾 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/StteenArts/StteenArts/output/pacman-contribution-graph.svg">
-</picture> 
+</picture>
