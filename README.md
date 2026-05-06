@@ -27,35 +27,44 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :star: Semi-senior Developer  
-- :video_game: Gamer & tech enthusiast  
-- :books: Mente de aprendiz 
-- :link: [GitHub Portfolio](https://github.com/StteenArts)
+- :star: Im a Semi-senior Developer  
+- :video_game: Gamer & tech lead enthusiast  
+- :books: Mente de aprendiz
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Contact me?
 
 <p align="center">
-	<a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/tu-instagram/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:stteenriwi@gmail.com">
+		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8">
+		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://www.instagram.com/stteen_vip/">
+		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+	</a>
 </p>
 
 ---
 
 ## 🛠️ My Skills
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming & Tech
-<p align="center"> 
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%237F2EFF.svg?style=plastic&logo=php&logoColor=white"></a>
-  <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> 
+<span style="display: flex; justify-content:center;">Programming & Tech</span>
+<p align="center">
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=plastic&logo=express&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+</p>
+<p>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
+	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%237F2EFF.svg?style=plastic&logo=php&logoColor=white"></a>
+	<a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"></a>
+	<a href="#"><img alt="Csharp" src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=plastic&logo=dotnet&logoColor=white"></a>
 </p>
 
 ---
