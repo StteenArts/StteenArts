@@ -51,8 +51,8 @@ Currently improving my skills in backend architecture and building high-quality 
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Php-E34F26.svg?style=for-the-badge&logo=php&logoColor=black">
+<img src="https://img.shields.io/badge/Python-F05033.svg?style=for-the-badge&logo=python&logoColor=black">
 
 <!-- Backend JS -->
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
@@ -64,6 +64,7 @@ Currently improving my skills in backend architecture and building high-quality 
 
 <!-- Database & Tools -->
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/POSTGRESS-02569B.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Scrum-009688.svg?style=for-the-badge">
 
