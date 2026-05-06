@@ -51,7 +51,7 @@
 
 ## 🛠️ My Skills
 
-### Programmings and techs
+### <span align="center">Programmings and techs<span>
 
 <p align="center">
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=plastic&logo=express&logoColor=white"></a>
