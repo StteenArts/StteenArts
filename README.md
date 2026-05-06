@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/stteenArts/">
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=30E6DC&center=true&vCenter=true&width=500&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
     
   </a>
 </p>
