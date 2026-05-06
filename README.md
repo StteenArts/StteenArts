@@ -23,7 +23,7 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+<h3> <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -31,6 +31,23 @@
 - :video_game: Gamer & tech lead enthusiast  
 - :books: Mente de aprendiz
 
+---
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Contact me
+
+<p align="center">
+	<a href="mailto:stteenriwi@gmail.com">
+		<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8">
+		<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
+	<a href="https://www.instagram.com/stteen_vip/">
+		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+	</a>
+</p>
+
+---
 
 ## 🛠️ SKILLS
 
