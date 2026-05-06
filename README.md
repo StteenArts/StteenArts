@@ -59,7 +59,7 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
-<p>
+<p align="center">
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
 	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 	<a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%237F2EFF.svg?style=plastic&logo=php&logoColor=white"></a>
