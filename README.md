@@ -51,7 +51,7 @@
 
 ## 🛠️ My Skills
 
-### <picture style="display:flex;"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> 
+### Programmings and techs
 
 <p align="center">
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=plastic&logo=express&logoColor=white"></a>
