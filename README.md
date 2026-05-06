@@ -4,13 +4,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/stteenArts/">
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=30E6DC&center=true&vCenter=true&width=500&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
-    
-  </a>
-</p>
-
-<p align="center">
   <strong>Backend Developer | C# / .NET | REST APIs | Software Architecture</strong>
 </p>
 
@@ -20,6 +13,13 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=StteenArts&label=Profile%20views&color=0047AB&style=plastic" alt="StteenArts" height=25px, width=160px/> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/stteenArts/">
+	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=30E6DC&center=true&vCenter=true&width=500&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
+    
+  </a>
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
