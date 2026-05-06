@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?
 		font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&height=100&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
   </a>
