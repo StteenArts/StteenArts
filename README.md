@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner">
+  <a href="https://github.com/stteenArts/">
+	      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Software+Developer;Certified+Public+Accountant;Bridging+Finance+%26+Tech" alt="Typing SVG" />
+    
   </a>
 </p>
 
