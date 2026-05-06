@@ -43,7 +43,7 @@ Currently improving my skills in backend architecture and building high-quality 
 <!-- APIs & Architecture -->
 <img src="https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge">
 <img src="https://img.shields.io/badge/OOP-FF5733.svg?style=for-the-badge">
-<img src="https://img.shields.io/badge/Design%20Patterns-FF6F00.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/Laravel-FF6F00.svg?style=for-the-badge&logo=laravel&logoColor=black"">
 
 </p>
 
