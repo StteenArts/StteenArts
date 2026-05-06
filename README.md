@@ -33,7 +33,7 @@
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Contact me?
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="50px"> </picture> Contact me
 
 <p align="center">
 	<a href="mailto:stteenriwi@gmail.com">
@@ -84,7 +84,7 @@
 	
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stteenrojas" target="_blank">
+  <a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
