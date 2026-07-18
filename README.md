@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <strong>Backend Developer | C# / .NET | REST APIs | Software Architecture</strong>
+  <strong>Software Developer | Laravel · .NET · Cloud & Software Architecture</strong>
 </p>
 
 <p align="center">
-  <i>Building clean, scalable, and maintainable applications</i>
+  <i>Designing scalable systems, APIs, and business solutions</i>
 </p>
 
 <p align="center"> 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/stteenArts/">
-	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=30E6DC&center=true&vCenter=true&width=500&lines=Back-End+%2F+Front-End+Developer;Continue+Student;Active+Learner" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=30E6DC&center=true&vCenter=true&width=500&lines=Always +Learning;Back-End+%2F+Developer;Laravel+&+ASP .NET+Developer;Cloud+&+AWS+Enthusiast;Software+Architecture+Learner;" alt="Typing SVG" />
     
   </a>
 </p>
