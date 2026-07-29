@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Software Developer | Laravel · .NET · Cloud & Software Architecture</strong>
+  <strong>Software Developer | Cloud & Software Architecture</strong>
 </p>
 
 <p align="center">
