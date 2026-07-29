@@ -28,7 +28,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
 </p>
 
-Software Developer focused on backend development with experience in C#, .NET, JavaScript, and PHP.
+Software Developer focused on backend development with experience in C#, .NET, JavaScript, and PHP, Laravel.
 
 I apply strong software engineering principles including Object-Oriented Programming (OOP), design patterns, and software architecture to build efficient and maintainable systems.
 
@@ -96,7 +96,7 @@ Currently improving my skills in backend architecture and building high-quality 
   <a href="mailto:stteenriwi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/stteen-rojas-sanchez-3623521a8">
+  <a href="https://www.linkedin.com/in/stteen-rojas">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
