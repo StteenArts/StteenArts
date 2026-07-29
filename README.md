@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <i>Designing scalable systems, APIs, and business solutions</i>
+  <i>Designing scalable systems and business solutions</i>
 </p>
 
 <p align="center"> 
